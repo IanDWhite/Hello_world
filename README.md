@@ -1,6 +1,4 @@
 # Hello_world
-Starter Repository
-
 Hiii eeeverybody!
 
 I'm new here and I hope that I don't make a tit out of myself!
